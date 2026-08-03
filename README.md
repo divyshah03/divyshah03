@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Divy Shah</h1>
 
 ## 💫 About Me
-I’m a second-year **Mathematics student with a Computer Science minor at the University of Waterloo**, interested in building **high-performance systems and algorithms used in modern finance and hedge funds**.
+I’m a third-year **Mathematics student with a Computer Science minor at the University of Waterloo**, interested in building **high-performance systems and algorithms used in modern finance and hedge funds**.
 
 I enjoy working at the intersection of:
 - **Computer systems**
