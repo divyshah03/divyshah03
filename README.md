@@ -16,11 +16,15 @@ My focus is on applying **core CS concepts (algorithms, systems, data pipelines)
 - 📊 Designing and implementing **data pipelines for financial and market data**
 - ⚙️ Exploring **algorithmic and systems-level problems** relevant to trading and risk
 - 🧠 Strengthening fundamentals in **algorithms, data structures, and performance**
+- 🤖 Applying **AI and machine learning** to real-world datasets, from model training through evaluation
+- ☁️ Building and deploying **cloud services**, including APIs, object storage, and containerized deployment
 
 ---
 
 ## 🛠 Technical Interests
 - Backend & systems programming  
+- Backend skills: API design, authentication, relational databases, and service-layer logic  
+- AI skills: machine learning models, retrieval systems, and evaluation  
 - Quantitative data analysis  
 - Scalable services and low-latency systems  
 - Financial infrastructure and analytics
